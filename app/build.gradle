@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.sksdesign.noteit'; compileSdk 35
+    defaultConfig { applicationId 'com.sksdesign.noteit'; minSdk 29; targetSdk 35; versionCode 205; versionName '2.0.5' }
+}
