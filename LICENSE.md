@@ -225,7 +225,7 @@ All copyrights, trademarks and intellectual property rights for third-party comp
 
 The author does **not** claim ownership of third-party libraries, Android platform technologies, external services, third-party trademarks or external tools.  NOTEit is independent and is not affiliated with, sponsored by, or endorsed by any third-party project or service unless explicitly stated.
 
---
+---
 
 ### No legal advice
 
