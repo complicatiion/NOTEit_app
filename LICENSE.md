@@ -1,34 +1,22 @@
 #  NOTEit - License
 
-
-
 Copyright (c) 2026 complicatiion aka sksdesign aka sven404  
 
 All rights reserved unless explicitly granted below or otherwise mentioned/licensed, or generally based on an included open-source license.
 
-
+---
 
 ## License model
 
+NOTEit is made available under a **non-commercial attribution license** for private, personal, educational, hobbyist, and indie use.
 
+The NOTEit software itself may not be sold, commercially redistributed, commercially sublicensed, repackaged as a paid product, offered as part of a paid software/service bundle, or used as the basis of a commercial competing product without separate written permission from the copyright holder.
 
-&#x20;NOTEit is made available under a **non-commercial attribution license** for private, personal, educational, hobbyist, and indie use.
-
-
-
-The  NOTEit software itself may not be sold, commercially redistributed, commercially sublicensed, repackaged as a paid product, offered as part of a paid software/service bundle, or used as the basis of a commercial competing product without separate written permission from the copyright holder.
-
-
-
-
+---
 
 ## Permitted use
 
-
-
 You may:
-
-
 
 - use  NOTEit privately
 
@@ -50,55 +38,11 @@ You may:
 
 - use your own exported playlists, settings files, library metadata, app data or similar user-created output in your own projects and workflows
 
-
-
-## User music, playlists and app data
-
-
-
-&#x20;NOTEit is a local music player. The app does not grant you any rights to third-party audio files, album artwork, metadata, podcasts, logos, web services, streaming services or other content that you do not already own or have permission to use.
-
-
-
-Your own user-created data remains yours. This includes:
-
-
-
-- playlists you create
-
-- exported playlist files
-
-- exported settings files
-
-- selected library folder references
-
-- favorite lists
-
-- history data
-
-- play count data
-
-- local cache metadata created from your own media library
-
-- custom web library names and URLs
-
-
-
-You may use your own exported playlists, settings and app data privately, non-commercially, or commercially, as long as doing so does not violate the rights of third parties.
-
-
-
-This permission applies only to user-created data and output. It does not grant permission to commercially sell, redistribute, rebrand, sublicense or package the  NOTEit software itself.
-
-
+---
 
 ## Conditions
 
-
-
 If you use, copy, modify, fork, clone, or redistribute  NOTEit under the permitted non-commercial terms, you must:
-
-
 
 - keep attribution to the original author: complicatiion aka sksdesign aka sven404
 
@@ -116,15 +60,11 @@ If you use, copy, modify, fork, clone, or redistribute  NOTEit under the permitt
 
 - keep third-party license notices intact where applicable
 
-
+---
 
 ## Prohibited use
 
-
-
 You may not, without separate written permission:
-
-
 
 - sell  NOTEit
 
@@ -148,63 +88,38 @@ You may not, without separate written permission:
 
 - use the  NOTEit name, logo or branding to imply endorsement, partnership or official status without permission
 
-
+---
 
 ## Commercial use
 
-
-
 Commercial use of the  NOTEit software itself is not included in this license.
-
-
 
 If you want to use, redistribute, integrate, sell, host, package, publish, bundle or offer  NOTEit commercially, you must obtain separate written permission from the copyright holder.
 
-
-
 Until such permission is granted, **all commercial rights to the  NOTEit software remain reserved**.
 
-
-
-This restriction does not apply to your own playlists, settings exports or user-created app data. Those may be used in your own workflows, provided they do not include third-party content that restricts such use.
-
-
+---
 
 ## Repository forks and clones
 
-
-
 Forking or cloning the  NOTEit repository is allowed for non-commercial purposes, including personal development, experimentation, bug fixing, local customization, educational use and indie/hobby workflows.
-
-
-
 However, a fork, clone or modified build may not be sold, commercially packaged, commercially hosted, commercially published to an app store or commercially redistributed without written permission.
 
-
+---
 
 ## Android app distribution
 
-
-
 Publishing  NOTEit, modified  NOTEit builds, renamed  NOTEit builds, or derivative APK/AAB packages to public app stores, commercial stores, paid repositories, managed enterprise catalogs, or other distribution platforms is not allowed without separate written permission.
-
-
 
 Private local installation on your own devices for testing, learning and personal use is permitted under this license.
 
-
+---
 
 ## Third-party components
 
-
-
-&#x20;NOTEit may include, reference or depend on third-party open-source components, Android platform APIs, Kotlin libraries, Jetpack libraries, Google libraries, media playback frameworks, local image assets, fonts, icons or other external technologies.
-
-
+NOTEit may include, reference or depend on third-party open-source components, Android platform APIs, Kotlin libraries, Jetpack libraries, Google libraries, media playback frameworks, local image assets, fonts, icons or other external technologies.
 
 Depending on the project version,  NOTEit may use or reference technologies such as:
-
-
 
 - Android SDK
 
@@ -229,58 +144,15 @@ Depending on the project version,  NOTEit may use or reference technologies such
 - local app icons, logos and drawable assets
 
 
-
 These components remain licensed under their respective licenses and belong to their respective authors or rights holders.
-
-
-
 No ownership is claimed over third-party libraries, platform technologies, frameworks, services or trademarks.
-
-
-
 If a third-party component includes its own license file or attribution notice, that license and attribution must be kept intact.
 
-
-
-## Web services and external platforms
-
-
-
-&#x20;NOTEit may provide optional web library entries or shortcuts for services such as SoundCloud, Spotify, YouTube Music or custom user-defined web pages.
-
-
-
-&#x20;NOTEit is independent and is not affiliated with, sponsored by, endorsed by or officially connected to SoundCloud, Spotify, YouTube, Google, Meta, WhatsApp or any other third-party service unless explicitly stated by the rights holder.
-
-
-
-All service names, trademarks, logos and brands belong to their respective owners.
-
-
-
-Users are responsible for complying with the terms of any third-party service they access through the app or through a WebView.
-
-
-
-## No music rights grant
-
-
-
-This license grants no rights to music, podcasts, album artwork, cover art, metadata, streaming content or media files.
-
-
-
-You are responsible for ensuring that you have the necessary rights to store, scan, play, copy, export or manage any media files used with  NOTEit.
-
-
+---
 
 ## No warranty
 
-
-
 This project is provided **as is** and **as available**, without warranty of any kind, express or implied, including but not limited to:
-
-
 
 - merchantability
 
@@ -314,155 +186,70 @@ This project is provided **as is** and **as available**, without warranty of any
 
 - data integrity
 
-
-
 The author does not guarantee that the software is complete, error-free, stable, secure, performant, compatible with every Android device, or suitable for your intended use.
 
-
+---
 
 ## Limitation of liability
 
-
-
-To the maximum extent permitted by applicable law, the author shall not be liable for any claim, damage, loss, or other liability arising from or related to:
-
-
-
-- use of  NOTEit
-
-- inability to use  NOTEit
-
-- bugs or defects
-
-- data loss
-
-- playlist loss
-
-- library cache corruption
-
-- settings corruption
-
-- incorrect metadata scans
-
-- missing album artwork
-
-- failed imports or exports
-
-- playback issues
-
-- notification issues
-
-- background playback issues
-
-- Android permission issues
-
-- device compatibility issues
-
-- WebView or third-party service issues
-
-- direct, indirect, incidental, consequential, or special damages
-
-
-
+To the maximum extent permitted by applicable law, the author shall not be liable for any claim, damage, loss, or other liability arising from.
 You use the software entirely at your own risk.
 
-
+---
 
 ## Work in progress notice
 
-
-
-&#x20;NOTEit is a **private hobby project** and a **work in progress**.
-
-
+NOTEit is a **private hobby project** and a **work in progress**.
 
 The project is still under active refinement. Features may be incomplete, unstable, experimental or partially non-functional. Future versions may change structure, behavior, controls, file formats, storage behavior, visual design, dependencies or feature availability without notice.
 
-
+---
 
 ## Attribution
 
-
-
 Any permitted redistribution, fork or adaptation of the  NOTEit software must include visible attribution to the original project and author.
-
-
 
 A suitable attribution example is:
 
+Based on  NOTEit by complicatiion aka sksdesign aka sven404. Used under the  NOTEit non-commercial attribution license
 
 
-> Based on  NOTEit by complicatiion aka sksdesign aka sven404. Used under the  NOTEit non-commercial attribution license.
-
-
-
-For playlists, settings exports or other user-created app data, attribution is appreciated but not required by this license, unless required by another included third-party asset or license.
-
-
-
-## Suggested interpretation
-
-
-
-This license is intended to function in a way similar to a **non-commercial attribution license**, while explicitly allowing free use of user-created playlists, settings exports and local app data, and explicitly reserving commercial rights to the  NOTEit software itself.
-
-
-
-If you need a different licensing model, that must be agreed separately in writing.
-
-
-
-## Legal disclaimer
-
+---
 
 
 ### Third-party rights and affiliation
 
+This project may utilize or include open-source components, Android platform technologies, local assets, fonts, icons and other third-party resources
 
-
-This project may utilize or include open-source components, Android platform technologies, local assets, fonts, icons and other third-party resources.
-
-
-
-All copyrights, trademarks and intellectual property rights for third-party components belong to their respective owners.
-
-
+All copyrights, trademarks and intellectual property rights for third-party components belong to their respective owners
 
 The author does **not** claim ownership of third-party libraries, Android platform technologies, external services, third-party trademarks or external tools.  NOTEit is independent and is not affiliated with, sponsored by, or endorsed by any third-party project or service unless explicitly stated.
 
-
+--
 
 ### No legal advice
 
-
-
 This license text is provided as part of a private hobby project and is not legal advice. If you require legally binding advice, commercial licensing, open-source compliance review or formal legal review, consult a qualified legal professional.
 
-
+---
 
 ## No trademark grant
 
-
-
 This license grants no trademark rights, brand rights, logo rights or endorsement rights.
-
-
 
 Project names, logos, icons and visual branding may not be used to imply endorsement, official status or affiliation without permission.
 
-
+---
 
 ## Acceptance
 
-
-
 By using, copying, modifying, forking, cloning, redistributing, installing, building, packaging, or otherwise interacting with the  NOTEit software, you agree to the terms of this license.
 
-
+---
 
 ### complicatiion aka sksdesign 24.05.2026
 
-
+---
 
 
 
